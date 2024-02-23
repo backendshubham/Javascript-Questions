@@ -15,5 +15,5 @@ console.log(evens); // Output: [2, 4]
 
 const array = [1, 2, 3, 4, 5];
 const product = array.reduce((x, y) => x * y); // Here the x value will be 0 (default)
-console.log(product); // Output: 120 
+console.log(product); // Output: 120  
 

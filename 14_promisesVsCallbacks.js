@@ -19,4 +19,4 @@ function fetchData() {
     .catch(error => {
       console.error('Error occurred:', error);
     });
-  
+   

@@ -18,4 +18,4 @@ console.log(person.age); // Output: 31
 // When we will use const with array
 const numbers = [1, 2, 3, 4, 5];
 numbers.push(6); // Allowed, but you can't reassign numbers to a different array
-console.log(numbers); // Output: [1, 2, 3, 4, 5, 6]
+console.log(numbers); // Output: [1, 2, 3, 4, 5, 6] 

@@ -14,3 +14,4 @@ const arr2 = [4, 5, 6];
 
 const mergedArray = [...arr1, ...arr2]; // Here we are merging both of arrays
 console.log(mergedArray); // Output: [1, 2, 3, 4, 5, 6]
+ 

@@ -19,7 +19,7 @@ greet.apply(person, ['26']); // Output: Hello, Pushpendra, 26 years old.
 // bind => bind creates a new function with a specified this value and initial arguments. It doesn't immediately execute the function.
 
 greet.bind(person, ['26'])(); // Output: Hello, Pushpendra, 26 years old
-greet.bind(person, '26')(); // Output: Hello, Pushpendra, 26 years old
+greet.bind(person, '26')(); // Output: Hello, Pushpendra, 26 years old 
 
 
 

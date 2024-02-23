@@ -9,3 +9,4 @@ const greet = name => `Hello, ${name}!`;
 console.log(square(2));
 console.log(add(2, 4));
 console.log(greet('pushpendra'));
+ 

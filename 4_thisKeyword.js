@@ -6,4 +6,4 @@ const obj = {
         console.log(`Hello, ${this.name}!`);
     }
 };
-obj.greet(); // Output: Hello, pushpendra!
+obj.greet(); // Output: Hello, pushpendra! 

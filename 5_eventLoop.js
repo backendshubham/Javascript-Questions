@@ -19,4 +19,4 @@ task2(); // Calling task2 to initiate its execution
 
 // Scheduling microtasks using Promise.resolve().then()
 Promise.resolve().then(microtask1); // Schedules microtask1 to be executed as a microtask
-Promise.resolve().then(microtask2); // Schedules microtask2 to be executed as a microtask
+Promise.resolve().then(microtask2); // Schedules microtask2 to be executed as a microtask 

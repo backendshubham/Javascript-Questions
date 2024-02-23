@@ -9,6 +9,6 @@ const iterator = generatorFunction();
 console.log(iterator.next()); // Output: { value: 1, done: false }
 console.log(iterator.next()); // Output: { value: 2, done: false }
 console.log(iterator.next()); // Output: { value: 3, done: false }
-console.log(iterator.next()); // Output: { value: undefined, done: ture }
+console.log(iterator.next()); // Output: { value: undefined, done: ture } 
 
 

@@ -8,5 +8,5 @@ function outerFunction() {
 }
 let innerFunc = outerFunction();
 innerFunc(); // Output: Hello, I am outer
-
+ 
 
